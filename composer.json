@@ -1,5 +1,5 @@
 {
-  "name": "thinkshout/mailchimp-api-php",
+  "name": "mailoptin/mailchimp-api-php",
   "type": "library",
   "description": "PHP library for v3 of the MailChimp API",
   "keywords": ["mailchimp", "mail"],
